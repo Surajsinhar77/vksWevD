@@ -1,0 +1,19 @@
+.userInfoform{
+    background-color: aquamarine;
+    width: 500px;
+    height: auto;
+    padding: 15px;
+    border-radius: 10px
+}
+.row{
+    display: flex;
+    margin: 7px 3px;
+}
+
+.list{
+    list-style: none;
+}
+
+.list li a{
+    text-decoration: none;
+}
